@@ -52,7 +52,7 @@ This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/pool
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/sine-cylinder-script) contains a script that makes a cylinder with sine spikes as opposed to a constaint radius cylinder. <br />
 
-![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/sine-cylinder-script/sine-cylinder-output.png?raw=true) <br />
+![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/sine-cylinder-script/sine-cylinder-ouput.png?raw=true) <br />
 
 ## Tank Generator Script
 
