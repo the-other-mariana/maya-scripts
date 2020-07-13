@@ -14,7 +14,7 @@ Maya version: `Autodesk Maya 2017`
 4. Click on the `Python` label.<br />
 5. Import the `.py` file or copy-paste the code on the editor.<br />
 6. Type `Ctrl + A` to select the whole text.<br />
-7. Click on `Run` button.<br />
+7. Click on `Run` button, or `Ctrl + Enter` to execute the script.<br />
 
 ## Content
 
