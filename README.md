@@ -30,43 +30,43 @@ This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/cyli
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/cylinder-generator-script/cylinder-output.png?raw=true)<br />
 
-## Helix Animation Script
+### Helix Animation Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/helix-animation-script) contains a script that, given a selected polygon, creates its key frames for a constant-radius helix movement.<br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/helix-animation-script/helix-gif.gif)<br />
 
-## House Generator Script
+### House Generator Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/house-generator-script) constains a script that creates a simle house mesh.<br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/house-generator-script/house-output.png?raw=true) <br />
 
-## Pool Animation Script
+### Pool Animation Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/pool-animation-script) contains a script that creates a rectangle mesh that simulate the vertex movement of water. <br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/pool-animation-script/pool-gif.gif)<br />
 
-## Sine Cylinder Script
+### Sine Cylinder Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/sine-cylinder-script) contains a script that makes a cylinder with sine spikes as opposed to a constaint radius cylinder. <br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/sine-cylinder-script/sine-cylinder-ouput.png?raw=true) <br />
 
-## Tank Generator Script
+### Tank Generator Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/tank-generator-script) contains a script that creates a tank out of primitives. <br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/tank-generator-script/tank-output.png?raw=true) <br />
 
-## Time Helix Animation Script
+### Time Helix Animation Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/time-helix-animation-script) contains a script that, given a selected polygon, animates it in a time-growing helix that moves upwards in custom amount of frames. <br />
 
 ![alt text](https://github.com/the-other-mariana/maya-scripts/blob/master/time-helix-animation-script/time-helix-gif.gif)<br />
 
-## Torus Animation Script
+### Torus Animation Script
 
 This [folder](https://github.com/the-other-mariana/maya-scripts/tree/master/torus-animation-script) contains a script that, given a selected polygon, animates its trayectory in a spiral that follows the form of a torus in custom number of frames.<br />
 
